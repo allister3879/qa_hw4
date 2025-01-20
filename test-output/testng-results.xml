@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-20T20:02:25 QYZT" name="Default suite" finished-at="2025-01-20T20:02:44 QYZT" duration-ms="18857">
+    <groups>
+    </groups>
+    <test started-at="2025-01-20T20:02:25 QYZT" name="Default test" finished-at="2025-01-20T20:02:44 QYZT" duration-ms="18857">
+      <class name="diane_hw4.ExtentReport_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:diane_hw4.ExtentReport_test@22ff4249]" started-at="2025-01-20T20:02:25 QYZT" name="setup" finished-at="2025-01-20T20:02:27 QYZT" duration-ms="1485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="openYouTube()[pri:1, instance:diane_hw4.ExtentReport_test@22ff4249]" started-at="2025-01-20T20:02:27 QYZT" name="openYouTube" finished-at="2025-01-20T20:02:41 QYZT" duration-ms="14420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openYouTube -->
+        <test-method signature="searchRasputinDance()[pri:2, instance:diane_hw4.ExtentReport_test@22ff4249]" started-at="2025-01-20T20:02:41 QYZT" name="searchRasputinDance" finished-at="2025-01-20T20:02:44 QYZT" duration-ms="2418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchRasputinDance -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:diane_hw4.ExtentReport_test@22ff4249]" started-at="2025-01-20T20:02:44 QYZT" name="teardown" finished-at="2025-01-20T20:02:44 QYZT" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- diane_hw4.ExtentReport_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
